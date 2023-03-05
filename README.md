@@ -1,7 +1,7 @@
 ### Olá eu sou o Willian de Souza
 
 - 🔭 I’m currently working on ...
-- 🌱 Eu estou estudando Automação de Testes
+- 🌱 Eu estou estudando Python Developer
 - 😄 Pronouns: ele/dele
 
 <div align="center">
